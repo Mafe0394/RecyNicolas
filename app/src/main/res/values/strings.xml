@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TareasActivity</string>
+    <string name="app_name_confirmar">Confirmar Datos</string>
+    <string name="name_input">Name</string>
+    <string name="telephone_input">Telephone</string>
+    <string name="email_input">Email</string>
+    <string name="description_input">Description</string>
+    <string name="date_format">dd/mm/yyyy</string>
+    <string name="ib_description">Calendar Button</string>
+    <string name="nombre">Nombre</string>
+    <string name="telefono">Telefono</string>
+    <string name="email">Email</string>
+    <string name="fecha">Fecha</string>
+    <string name="button_editar">Editar datos</string>
+    <string name="button_siguiente">Siguiente</string>
+    <string name="texto_base_telefono">No texto telefono</string>
+    <string name="texto_base_nombre">No texto nombre</string>
+</resources>

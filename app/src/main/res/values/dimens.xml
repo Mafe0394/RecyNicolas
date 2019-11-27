@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="title_size">25sp</dimen>
+    <dimen name="width_etName">125dp</dimen>
+    <dimen name="width_etTelephone">125dp</dimen>
+    <dimen name="width_etEmail">125dp</dimen>
+    <dimen name="width_etDescription">125dp</dimen>
+    <dimen name="height_etName">45dp</dimen>
+    <dimen name="height_etTelephone">45dp</dimen>
+    <dimen name="height_etEmail">45dp</dimen>
+    <dimen name="height_etDescription">45dp</dimen>
+    <dimen name="nombre_contacto">33sp</dimen>
+    <dimen name="corner_radius_cv">4p</dimen>
+</resources>
